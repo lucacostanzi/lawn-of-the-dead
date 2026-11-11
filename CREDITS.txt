@@ -1,0 +1,39 @@
+LAWN OF THE DEAD  -  ALPHA 0.1
+
+Game by cosTanSin.
+
+Penusbmic's male civilian sprites ("The DARK Series", Civilian Pack 1) are the
+neighbours in the intro and ending and three of the shopkeepers; the kid, the
+pet zombie and Timber Ted are built on their walk cycle. The hit, electric and
+poison effects come from Penusbmic's FX pack (also "The DARK Series"). Used
+under their licence: https://penusbmic.itch.io
+
+Made with SGDK 2.09 (Stephane Dallongeville), under the MIT licence:
+
+MIT License - Copyright (c) 2025 Stephane Dallongeville
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to
+deal in the Software without restriction, including without limitation the
+rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+sell copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+IN THE SOFTWARE.
+
+The in-browser version runs on EmulatorJS (GPL-3.0,
+https://github.com/EmulatorJS/EmulatorJS), loaded from its own servers, with
+the Genesis Plus GX core (check its licence before charging for that
+version).
+
+Sega, Mega Drive and Genesis are trademarks of Sega. This is an unofficial
+homebrew game, not made or endorsed by Sega.

@@ -1,0 +1,7 @@
+ALPHA 0.1
+- First public alpha: four areas (suburbs, mall, old house, castle),
+  two floors each with a boss, the cinema between areas, the final show,
+  three friends to rescue and play as, an intro and an ending.
+- New neighbours in the intro and ending, and new keepers in the shop, the
+  corner store and the army surplus (Penusbmic's civilians).
+- New effects for hits, the bug zapper and poison (Penusbmic's FX pack).
