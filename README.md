@@ -41,19 +41,6 @@ Default layout (Settings has others).
 | C | Dash |
 | Start | Pause: map, stats, items, potions, options |
 
-## Screenshots
-
-| | |
-|---|---|
-| ![Title screen](screenshots/00_title.png) | ![The street](screenshots/01_intro_street.png) |
-| ![Mr. Giggles](screenshots/03_mr_giggles.png) | ![Granny Hex](screenshots/04_granny_hex.png) |
-| ![Gobstopper](screenshots/05_gobstopper.png) | ![The intro](screenshots/intro.gif) |
-
-## Feedback
-
-Bugs, ideas, anything: open an [issue](../../issues) or leave a comment on the
-itch.io page. Please say which version (top right of the title screen) and what
-you were doing.
 
 ## Licence
 
